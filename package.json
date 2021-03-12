@@ -1,0 +1,15 @@
+{
+  "name": "ethereum-first",
+  "version": "1.0.0",
+  "description": "Nil",
+  "main": "test.js",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "s1dequest",
+  "license": "ISC"
+}
